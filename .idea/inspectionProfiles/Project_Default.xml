@@ -1,0 +1,15 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="blog.models.Post.objects" />
+          <option value="blog.views.detail" />
+          <option value="blog.models.Category.objects" />
+          <option value="blog.views.archives" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
