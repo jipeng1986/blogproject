@@ -26,7 +26,7 @@ SECRET_KEY = 'mp4wpw**75r4^1z(o6g&sd)u%wpul-^qh891qfjyx9v!#*suy@'
 DEBUG = False
 
 # ALLOWED_HOSTS = []
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost ', '.jmp86.com']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
